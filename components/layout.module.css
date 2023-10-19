@@ -1,0 +1,49 @@
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
+
+
+.nav {
+  width: full;
+  height: auto;
+  background-color: lightblue;
+  position: sticky;
+  top: 0;
+}
+
+.navContainer {
+  margin: auto;
+  padding: 4px;
+  height: full;
+}
+
+.navFlex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  height: full;
+  padding: 0px;
+
+}
+
+.logo {
+  margin-right: 200px;
+}
+
+.linkWrapper {
+  margin: 0px;
+}
